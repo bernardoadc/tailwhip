@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/bernardoadc/tailwhip/issues"
   },
-  "homepage": "https://github.com/bernardoadc/tailwhip#readme"
+  "homepage": "https://github.com/bernardoadc/tailwhip#readme",
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  }
 }
